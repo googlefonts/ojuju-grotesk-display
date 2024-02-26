@@ -54,7 +54,7 @@ numpy==1.25.2
 openstep-plist==0.3.1
 opentype-sanitizer==9.1.0
 opentypespec==1.9.1
-orjson==3.9.7
+orjson==3.9.15
 outcome==1.2.0
 packaging==23.1
 picosvg==0.22.1
