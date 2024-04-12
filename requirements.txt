@@ -41,7 +41,7 @@ glyphsets==0.6.2
 glyphsLib==6.4.0
 h11==0.14.0
 hyperglot==0.4.5
-idna==3.4
+idna==3.7
 Jinja2==3.1.2
 lxml==4.9.3
 markdown-it-py==3.0.0
